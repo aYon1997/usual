@@ -1,0 +1,18 @@
+.pagination {
+    width: 1000px;
+    display: flex;
+    text-align: left;
+    position: absolute;
+}
+
+.pagination-padding {
+    padding: 0 20px;
+}
+
+.gotoAppoint {
+    width: 40px;
+}
+
+.currentActive {
+    background: #4d79ff;
+}
